@@ -5,12 +5,12 @@
     <title>Info page</title>
 </head>
 <body>
-info 2
+TEST   <br/>
 <?
- $j = 2 + 12313;
+ $j = 100 * 7;
 
 
-      echo 'test2' . $j;
+      echo '$j = ' . $j;
 
     ?>
 
